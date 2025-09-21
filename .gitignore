@@ -1,0 +1,6 @@
+# Ignore the demo folder and all its contents
+demo/
+demo/*
+
+# Alternative: Just this line would also work
+# demo/
